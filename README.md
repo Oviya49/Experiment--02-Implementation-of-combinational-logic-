@@ -78,6 +78,7 @@ endmodule
 
 ## Truth table
 ![image](https://github.com/Oviya49/Experiment--02-Implementation-of-combinational-logic-/assets/153576803/3090a42f-e95a-4933-9938-861bc302e51f)
+
 ##Timing Diagram
 ![image](https://github.com/Oviya49/Experiment--02-Implementation-of-combinational-logic-/assets/153576803/7071d4db-6e0d-4aac-8791-8570d846b84f)
 
